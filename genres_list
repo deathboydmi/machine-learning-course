@@ -1,0 +1,18 @@
+#!/bin/bash
+
+mkdir -p ../data/genres/Art_Nouveau
+mkdir -p ../data/genres/Proto_Renaissance
+mkdir -p ../data/genres/Suprematism
+mkdir -p ../data/genres/Surrealism
+mkdir -p ../data/genres/High_Renaissance
+mkdir -p ../data/genres/Early_Renaissance
+mkdir -p ../data/genres/Symbolism
+mkdir -p ../data/genres/Pop_Art
+mkdir -p ../data/genres/Expressionism
+mkdir -p ../data/genres/Primitivism
+mkdir -p ../data/genres/Baroque
+mkdir -p ../data/genres/Romanticism
+mkdir -p ../data/genres/Northern_Renaissance
+mkdir -p ../data/genres/Cubism
+mkdir -p ../data/genres/Impressionism
+mkdir -p ../data/genres/Post-Impressionism
